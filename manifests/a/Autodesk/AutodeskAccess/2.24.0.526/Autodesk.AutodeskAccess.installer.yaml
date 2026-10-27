@@ -13,7 +13,7 @@ AppsAndFeaturesEntries:
   Publisher: Autodesk
 Installers:
 - Architecture: x64
-  InstallerUrl: https://emsfs.autodesk.com/utility/access/1/installer/latest/AdAccess-installer.exe
-  InstallerSha256: B61C2A14E4B3D02975B0CA6F8F569F8B2D9B8CFE2C4F66410BD9C80E5E322854
+  InstallerUrl: https://emsfs.autodesk.com/utility/access/1/installer/2_24_0_526/AdAccess-installer.exe
+  InstallerSha256: 959F3EDC9782A4DBD540CDC84EBC8A4B3787C6C237004AD21F7408C2989BEE1A
 ManifestType: installer
 ManifestVersion: 1.28.0
